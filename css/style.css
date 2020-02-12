@@ -1,1 +1,117 @@
-asdf
+body
+{
+	font-family: Poppins;
+}
+
+h2
+{
+	font-weight: bold;
+}
+
+h3
+{
+	font-size: 35px;
+}
+
+h5
+{
+	text-align: center;	
+}
+
+hr
+{
+	border : 2px solid rgb(65,65,65); 
+	width: 140px;
+}
+
+.aside-img
+{
+	margin-top: 120px; 
+	background: url('../images/build-development-teams.png') top right no-repeat  ; 
+	background-size: contain; 
+}
+
+.bg-color
+{
+	background-color: rgb(247,247,247); 
+	margin-top: 50px; 
+}
+
+.nav-li
+{
+	font-size: 25px;
+}
+
+.article
+{
+	font-size: 22px;
+}
+
+.ul-li
+{
+	 list-style-image: url('../images/bullet-point.png');
+	 font-size: 22px;
+	 padding-left: 35px;
+}
+
+.a-btn
+{
+	font-size: 18px;
+	padding: 10px 10px;
+}
+
+
+.img-dimensions
+{
+	height: 70px; 
+	width: 70px; 
+	margin: auto;
+}
+
+.div-num
+{
+	font-size: 40px; 
+	font-weight: bold; 
+ 	text-align: center; 
+}
+
+.div-num-content
+{
+	font-size: 22px; 
+	font-weight: medium; 
+	text-align: center;
+}
+
+.card-dr-bg
+{
+	margin-top: 165px; 
+	padding-bottom: 20px; 
+	background-color: rgb(216,242,251);
+}
+
+.card-tx-bg
+{
+	margin-top: 165px; 
+	padding-bottom: 20px; 
+	background-color: rgb(255,232,232);
+}
+
+.card-titles
+{
+	font-family: Ubuntu; 
+	font-size: 30px; 
+	font-weight: bold;
+}
+
+.card-span
+{
+	font-family: Ubuntu; 
+	font-size: 20px;
+}
+
+.card-content
+{
+	padding: auto; 
+	border-style: groove; 
+	text-align: center; 
+}
